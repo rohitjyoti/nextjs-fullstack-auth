@@ -17,6 +17,8 @@
     "bcryptjs": "^2.4.3",
     "eslint": "8.43.0",
     "eslint-config-next": "13.4.7",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.3.2",
     "next": "13.4.7",
     "nodemailer": "^6.9.3",
     "postcss": "8.4.24",
@@ -28,6 +30,7 @@
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.2",
+    "@types/jsonwebtoken": "^9.0.2",
     "@types/nodemailer": "^6.4.8"
   }
 }
